@@ -1,0 +1,50 @@
+
+
+/* title jumbotron */
+.jumbotron{
+  height: 200px;
+  padding-top: 0;
+}
+.brand{
+  font-weight: bold;
+  font-size:80px;
+  text-align:center;
+  padding-top: 0;
+}
+.motto{
+  text-align:center;
+  font-size:70px;
+  color:brown;
+}
+
+
+
+
+
+
+/* tasks */
+#to-do-task{
+  background-color:#E94F37;
+  color: white;
+  border: #E94F37;
+}
+#on-going-task{
+ background-color:#e6c229;
+  color: white;
+  border: #e6c229;
+}
+
+#completed-task{
+  background-color: #69B578;
+  color: white;
+  border:  #69B578;
+}
+
+
+/* CALENDAR STYLE */
+
+.calendar{
+  width: 45rem;
+  height: 52rem;
+  
+}
